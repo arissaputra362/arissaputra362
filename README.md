@@ -8,5 +8,3 @@
 arissaputra362/arissaputra362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-0xF57F78Cb13b58dfB84C183F75CD605967cf3Ba19
